@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ITSAppUsesNonExemptEncryption</key>
-	<false/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
@@ -19,7 +17,23 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
+	<key>FFBundleCompassIconCreatorWebsite</key>
+	<string>https://thenounproject.com/xinhstudio</string>
+	<key>FFBundleLicenseName</key>
+	<string>BSD</string>
+	<key>FFBundleMainDeveloperName</key>
+	<string>Florian Fittschen</string>
+	<key>FFBundleMainDeveloperWebsite</key>
+	<string>https://twitter.com/flofi</string>
+	<key>FFBundleMaskIconCreatorWebsite</key>
+	<string>https://thenounproject.com/bfarias</string>
+	<key>FFBundleRepositoryName</key>
+	<string>ffittschen/isitprivate</string>
+	<key>FFBundleRepositoryWebsite</key>
+	<string>https://github.com/ffittschen/isitprivate</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.productivity</string>
 	<key>LSMinimumSystemVersion</key>
@@ -30,19 +44,5 @@
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>FFBundleMainDeveloperName</key>
-	<string>Florian Fittschen</string>
-	<key>FFBundleMainDeveloperWebsite</key>
-	<string>https://twitter.com/flofi</string>
-	<key>FFBundleRepositoryName</key>
-	<string>ffittschen/isitprivate</string>
-	<key>FFBundleRepositoryWebsite</key>
-	<string>https://github.com/ffittschen/isitprivate</string>
-	<key>FFBundleMaskIconCreatorWebsite</key>
-	<string>https://thenounproject.com/bfarias</string>
-	<key>FFBundleCompassIconCreatorWebsite</key>
-	<string>https://thenounproject.com/xinhstudio</string>
-	<key>FFBundleLicenseName</key>
-	<string>BSD</string>
 </dict>
 </plist>
