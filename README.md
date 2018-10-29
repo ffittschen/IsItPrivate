@@ -20,6 +20,7 @@ The Application does not store or transmit any personal details, nor does it inc
 ## Attributions
 
 mask by b farias from the Noun Project -- [Link](https://thenounproject.com/browse/?i=795831)
+
 Compass by Xinh Studio from the Noun Project -- [Link](https://thenounproject.com/browse/?i=51854)
 
 ## License
