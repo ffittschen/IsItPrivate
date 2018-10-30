@@ -1,6 +1,7 @@
 <p align="center">
+<a href="https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12">
 <img src="Assets/AppIcon.png" alt="Is It Private App Icon" width="175" maxHeight="175" /><br />
-<a href="https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" height="42" /></a>
+<img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" height="42" /></a>
 </p>
 
 # Is It Private?
