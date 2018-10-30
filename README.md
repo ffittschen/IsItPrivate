@@ -1,11 +1,13 @@
-<div align="center"><img src="Assets/AppIcon.png" alt="Is It Private App Icon" width="150" maxHeight="150" />
-<a href="https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12"><img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" height="42" align="right" /></a></div>
+<p align="center">
+<img src="Assets/AppIcon.png" alt="Is It Private App Icon" width="175" maxHeight="175" /><br />
+<a href="https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" height="42" /></a>
+</p>
 
 # Is It Private?
 
-![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)<!--
---> [![GitHub release](https://img.shields.io/github/release/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/releases/latest)<!--
---> [![GitHub](https://img.shields.io/github/license/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/blob/master/LICENSE)
+![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
+[![GitHub release](https://img.shields.io/github/release/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/releases/latest)
+[![GitHub](https://img.shields.io/github/license/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/blob/master/LICENSE)
 
 _Is It Private_ is a Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. This is especially helpful when the Dark appearance of macOS is activated.
 
