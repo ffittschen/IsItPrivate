@@ -1,13 +1,36 @@
-<p align="center">
-    <img src="https://github.com/ffittschen/IsItPrivate/raw/master/Assets/AppIcon.png" alt="Is It Private App Icon" width="200" maxHeight="200" />
-</p>
+<div align="center"><img src="Assets/AppIcon.png" alt="Is It Private App Icon" width="150" maxHeight="150" />
+<a href="https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12"><img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" height="42" align="right" /></a></div>
+
+# Is It Private?
+
+![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)<!--
+--> [![GitHub release](https://img.shields.io/github/release/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/releases/latest)<!--
+--> [![GitHub](https://img.shields.io/github/license/ffittschen/isitprivate.svg)](https://github.com/ffittschen/IsItPrivate/blob/master/LICENSE)
 
 _Is It Private_ is a Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. This is especially helpful when the Dark appearance of macOS is activated.
 
 
+## Installation
+
+### App Store
+
+_Is It Private_ is available on the [App Store](https://itunes.apple.com/de/app/is-it-private/id1440322906?l=en&mt=12) 🎉.
+
+### GitHub Releases
+
+1. Open the [releases](/releases) page and download the `IsItPrivate.app.zip` from the latest release.
+1. Unzip the file and move `IsItPrivate.app` into your Applications folder.
+
+
+### Build from Source
+
+1. Clone this repository or download the source code of the [latest release](/releases/latest).
+1. Open `IsItPrivate.xcodeproj` with Xcode and build the `IsItPrivate` scheme.
+
+
 ## Support
 
-If you encounter any problems, feel free to [open an issue](https://github.com/ffittschen/isitprivate/issues) or contact me [on Twitter](https://twitter.com/flofi).
+If you encounter any problems, feel free to [open an issue](/issues) or contact me [on Twitter](https://twitter.com/flofi).
 
 
 ## Privacy Policy
